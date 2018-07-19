@@ -26,7 +26,7 @@ public class TC1 extends AbstractClass{
 		
 		for(int i=1; i<links.size(); i++) {
 		
-			System.out.println(links.get(i).getText());
+			System.out.println("These are the links" + links.get(i).getText());
 			
 		
 			
